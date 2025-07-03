@@ -10,6 +10,7 @@
 ✅ **Curate Playlists by Mood** — Create and save playlists like "Feel-Good", "Thriller Night", or "Weekend Watch"  
 ✅ **Add to Favorites** — Save your favorite movies for quick access  
 ✅ **Delete from Favorites** — Easily remove items from your saved list  
+✅ **Login & Singup** — user friendly and password protected  
 ✅ **TMDB Integrated** — Fetches rich metadata, posters, and movie details via [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api)
 
 ---
@@ -39,9 +40,13 @@ movie-mate/
 ├── client/               # React frontend
 │   ├── public/
 │   └── src/
-│       ├── components/
-│       ├── pages/
+│       ├── Home.js
+│       ├── Playlists.js
+│       ├── Favourites.js
+│       ├── Signup.js
+│       ├── Login.js
 │       └── App.js
+│       └── index.js
 ├── server/               # Node.js backend
 │   ├── routes/
 │   ├── controllers/
