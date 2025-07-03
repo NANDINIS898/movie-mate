@@ -22,7 +22,7 @@
 | ⚙️ Backend   | Node.js, Express.js    |
 | 💾 Database  | MySQL (with Sequelize or raw queries) |
 | 🔌 API       | TMDB API               |
-| ☁️ Deployment| Vercel (frontend) + Render/Railway (backend & DB)
+| ☁️ Deployment| netlify (frontend) + Render/Railway (backend & DB)
 
 ---
 
